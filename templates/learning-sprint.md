@@ -180,4 +180,4 @@
 
 ---
 
-*Template version 1.0 | From [Open Learning How To Learn](https://github.com/yourrepo)*
+*Template version 1.0 | From [Meta Learning](https://github.com/yourrepo/meta-learning)*

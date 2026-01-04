@@ -1,4 +1,4 @@
-# Open Learning How To Learn
+# Meta Learning
 
 > **A practical system for learning how to learn, distilled from history's greatest polymaths and modern cognitive science.**
 
