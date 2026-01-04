@@ -1,0 +1,19 @@
+# Personal files
+my-learning/
+personal/
+.private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
