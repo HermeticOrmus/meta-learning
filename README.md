@@ -49,7 +49,7 @@ Understanding + Application + Teaching = Mastery
 
 ### `/master-learners.md`
 Distilled wisdom from history's greatest learners:
-- **8 Master Profiles** with their specific learning methods
+- **8 Master Learner Lenses** with their specific learning methods
 - **Common Patterns** that appear across all masters
 - **Actionable Exercises** to apply each approach
 - **Modern Science Integration** validating ancient wisdom
@@ -60,6 +60,14 @@ Ready-to-use templates for structured learning:
 - `mental-model.md` - Concept documentation template
 - `progress-journal.md` - Daily/weekly tracking
 - `knowledge-entry.md` - Personal wiki template
+
+### `/distillation/`
+The knowledge distillation pipeline — transform raw research into multi-perspective knowledge hubs:
+- `README.md` - Pipeline overview and quick start
+- `pipeline.md` - Full 7-phase process (Extract → Structure → Populate → Illuminate → Apply → Synthesize → Persist)
+- `lenses/` - 8 master learner lens templates (Da Vinci, Tesla, Franklin, Feynman, Von Neumann, Aristotle, Musk, Oakley)
+- `notion/` - Notion Hub architecture, database schemas, setup guide
+- `examples/information-theory/` - First completed subject (67 concepts, 36 figures, 35 references)
 
 ### `/docs/`
 The system explained:
