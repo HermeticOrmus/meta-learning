@@ -597,6 +597,10 @@ Move with urgency
 **When**: Need urgency, aggressive timeline
 **Practice**: First principles, surround with experts, ship fast
 
+### Channel Oakley
+**When**: Learning feels stuck, need cognitive strategy
+**Practice**: Alternate focused/diffuse modes, chunk material, use spaced repetition
+
 ---
 
 ## The Meta-Pattern: Learning How to Learn
@@ -635,6 +639,8 @@ Track in your progress journal:
 **Aristotle**: "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
 
 **Musk**: "I think it's possible for ordinary people to choose to be extraordinary."
+
+**Oakley**: "Understanding how we learn helps us become better at it. The brain is far more flexible than we give it credit for."
 
 ---
 
