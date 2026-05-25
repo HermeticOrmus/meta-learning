@@ -1,6 +1,23 @@
-# Meta Learning
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Meta Learning" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> **A practical system for learning how to learn, distilled from history's greatest polymaths and modern cognitive science.**
+<h1 align="center">Meta Learning</h1>
+
+<p align="center">
+  <em>A practical system for learning how to learn, distilled from history's greatest polymaths and modern cognitive science.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/meta-learning/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/meta-learning?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/meta-learning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/meta-learning?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/meta-learning/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/meta-learning?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> ****A practical system for learning how to learn, distilled from history's greatest polymaths and modern cognitive science.****
 
 ---
 
